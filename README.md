@@ -1,7 +1,8 @@
 # Wordle Helper
+Helper for the popular New York Times game, Wordle
+
 ![Helper](https://user-images.githubusercontent.com/15940140/179074945-80c95b46-d1a2-4102-a724-8b2642f66b87.png)
 
-Helper for the popular New York Times game, Wordle
 
 ## Description
 
